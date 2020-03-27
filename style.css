@@ -1,0 +1,51 @@
+#searchBar{
+    width: 582px;
+    height: 44px;
+    border-radius: 24px;
+    margin: 0;
+    border: 1px solid #dfele5;
+    
+    
+  }
+  #topCenter{
+    padding-top: 109px;
+  }
+  #botCenter{
+    height: 58px;
+    display: block;
+    font-size: 13px;
+    
+  }
+  
+  .btn{
+    height: 36px;
+    width: 127.41px;
+    background: #F2F2F2;
+    padding: 0px 0px;
+    margin: 11px 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+  }
+  #luckyBtn{
+    width: 142.5;
+  }
+  
+  .navBarList{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+  
+  }
+  .footBarList{
+    position: fixed;
+    bottom: 0px;
+  }
+  
+  .navBarItems{
+    float: left;
+  }
+  .footBarItems{
+    float: left;
+  }
